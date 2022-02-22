@@ -8,7 +8,7 @@ public class School {
         student.sex = 'M';
 
         Student student2 = new Student();
-        student2.name = "PEDOR";
+        student2.name = "PEDRO";
         student2.age = 19;
         student2.color = "BLACK";
         student2.sex = 'M';
