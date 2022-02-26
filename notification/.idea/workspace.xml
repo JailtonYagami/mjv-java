@@ -9,6 +9,13 @@
       <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Cadastro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/NotificacaoTipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/contrato/Contrato.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../java-fundamentos/java-fundamentos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
@@ -29,10 +36,6 @@
       <change afterPath="$PROJECT_DIR$/src/notification/service/TransmissorMensagem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/notification/service/TransmissorMensagemSms.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/notification/service/TransmissorMensagemWhats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Cadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Cadastro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/NotificacaoTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/NotificacaoTipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../agua-lu-atracao/src/main/java/com/mjvschool/atracao/model/cadastro/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
